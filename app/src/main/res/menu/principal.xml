@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
-<item
-    android:id="@+id/idt1"
-    android:title="Item 1"/>
+
     <item
-        android:id="@+id/idt2"
-        android:title="Item 2" />
+        android:id="@+id/menu_licao"
+        android:title="Licao em INGLES"
+        android:onClick="telaLicao" />
+    <item
+        android:id="@+id/menu_Quiz"
+        android:title="Quiz em INGLES"
+        android:onClick="telaQuiz" />
+    <item
+        android:id="@+id/menu_frances"
+        android:title="Licao em FRANCES"
+        android:onClick="telaLicaoFrances" />
+    <item
+        android:id="@+id/menu_QuizFrances"
+        android:title="Quiz em FRANCES"
+        android:onClick="telaQuizFrances" />
+    <item
+        android:id="@+id/menu_tarefa"
+        android:title="Tarefa Diaria"
+        android:onClick="telaTarefa" />
+
+
 </menu>

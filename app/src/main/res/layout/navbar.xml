@@ -10,11 +10,11 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@mipmap/ic_nova_foreground" />
+        android:src="@android:drawable/ic_menu_mapmode" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="LICÕES E QUIZZES DE INGLES E FRANCES" />
 </androidx.appcompat.widget.LinearLayoutCompat>

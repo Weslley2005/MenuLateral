@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nomes">
+        <item>Texto -1- INGLES</item>
+        <item>Texto -2- INGLES</item>
+        <item>Texto -1- FRANCES</item>
+        <item>Texto -2- FRANCES</item>
+
+    </string-array>
+
+    <string-array name="descricao">
+        <item>Birthday’s origin\n
+        \n
+        In ancient Rome, there was the habit of celebrating the birthday of a person. There weren’t parties like we know today, but cakes were prepared and offers were made. Then, the habits of wishing happy birthday, giving gifts and lighting candles became popular as a way to protect the birthday person from devils and ensure good things to the next year in the person’s life. The celebrations only became popular like we know today after fourteen centuries, in a collective festival performed in Germany
+        </item>
+        <item>The Universal Language\n
+        \n
+        Music is a wonderful form of expression that people all around the world enjoy. It comes in many different styles, like pop, rock, classical, and jazz. When we listen to music, it can make us feel happy, calm, or excited. Some people play musical instruments like the guitar, piano, or drums to create their own music. Others love to sing and share their voices with the world. Music brings people together and helps us connect with our emotions. No matter where we come from or what language we speak, music is a universal language that unites us all in harmony.
+
+        </item>
+        <item>Bruxelles, le 3 octobre 2011\n
+            \n
+        Chère Sylvie, Nous sommes enfin en Belgique ! C’est un beau pays. La ville est agréable et les gens sont accueillants. Le poste est vraiment très intéressant. Comme nous sommes dans le même service au Parlement européen, je déjeune avec Marc tous les jours. Je me promène beaucoup pour visiter la ville parce que je ne suis pas au bureau l’après-midi. Par contre, Marc arrête de travailler assez tard. En général, il rentre entre 19 et 20 heures. Le samedi ou le dimanche, nous allons souvent au restaurant (ils sont vraiment excellents), au théâtre ou au musée. Le soir, pendant la semaine, nous restons plutôt à la maison car nous nous levons très tôt le matin ! Ici, on commence à travailler à 8 heures ! Marc n’aime pas trop Bruxelles, il préfère Genève, mais moi j’adore ! Nous rentrons à Bordeaux au mois de décembre. A très bientôt et un grand bonjour aux collègues ! Cordialement
+      </item>
+        <item>Le marché\n
+            \n
+        Clément et Manon ont très faim et la pendule du salon sonne midi. Ils décident d’aller au marché pour acheter les ingrédients qu’ils vont cuisiner.
+        \n
+        Ils ont besoin d’une salade verte, de 6 tomates, de 3 œufs, de crème fraiche et de jambon. Ils vont cuisiner une quiche lorraine pour le repas.
+        \n
+        C’est le plat préféré de Manon. Mais le marché est loin de leur maison et ils ne peuvent pas y aller à pied. Ils prennent donc leur voiture rouge et conduisent jusqu’à la place du village.
+        \n
+        Manon et Clément sortent de leur voiture et achètent ce dont ils ont besoin pour cuisiner la quiche lorraine. Ils mettent tous leurs achats dans un grand sac puis, ils rentrent dans leur maison. Une heure plus tard, Clément et Manon dégustent leur déjeuner bien mérité !
+      </item>
+    </string-array>
+</resources>

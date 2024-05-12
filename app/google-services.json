@@ -1,0 +1,48 @@
+
+{
+  "project_info": {
+    "project_number": "577597557183",
+    "project_id": "idioma1-f427a",
+    "storage_bucket": "idioma1-f427a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577597557183:android:5fc85d06c864571acfb90a",
+        "android_client_info": {
+          "package_name": "br.unigran.menulateral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577597557183-sm5ls73jk84g58mjbkmg66ofn6dfhbot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unigran.menulateral",
+            "certificate_hash": "bfdf18da3644a3cf1c876177553fdd5c3174cef4"
+          }
+        },
+        {
+          "client_id": "577597557183-he3t0jkg08pcu4miocung57n3emq3c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_4xmhbLFUDuckoK-TbBJlbqBHk4aZ0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577597557183-he3t0jkg08pcu4miocung57n3emq3c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

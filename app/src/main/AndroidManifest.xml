@@ -5,6 +5,7 @@
     <uses-feature
         android:name="android.hardware.camera"
         android:required="true" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -15,8 +16,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MenuLateral"
         tools:targetApi="31">
+        weslley
+        <activity
+            android:name=".telas.TarefaDiaria"
+            android:exported="false" />
+        <activity
+            android:name=".telas.QuizFrances"
+            android:exported="false" />
+        <activity
+            android:name=".telas.LicaoFrances"
+            android:exported="false" />
+        <activity
+            android:name=".telas.Quiz"
+            android:exported="false" />
+        <activity
+            android:name=".telas.Licao"
+            android:exported="false" />
+        <activity
+            android:name=".telas.Cadastro"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".telas.Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
